@@ -22,6 +22,8 @@ public class JumlahKuadrat {
 
             System.out.println(" = " + jumlahKuadrat); // Menampilkan hasil jumlah
         }
+
+    
         sc.close();
     }
 }
